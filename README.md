@@ -69,17 +69,6 @@ The project revolves around key financial and operational terms and KPIs, includ
 - **YTD (Year to Date)**: A financial period from the start of the current year to the current date.
 - **YTG (Year to Go)**: Forecasting for the remaining part of the year.
 
----
-
-## **Visualizations & Dashboards**
-This Power BI report includes the following visualizations:
-- **Line Charts**: Used to display trends over time (e.g., revenue growth, sales volume).
-- **Bar Charts**: Used to compare sales and performance by product or region.
-- **Geographical Maps**: Visualize performance by region for market and sales analysis.
-- **KPIs**: Visual indicators to display key metrics (e.g., total sales, gross margin).
-- **Tables**: Detailed views of sales, marketing costs, and supply chain data.
-
----
 
 ## **Business Impact**
 This Power BI project provides AtliQ with the ability to make data-driven decisions across multiple departments. Key stakeholders, including executives, finance teams, and supply chain managers, can access interactive reports to monitor the performance of products in real-time. The automated data refresh and scheduled updates ensure that the dashboards remain current, making it easier to respond quickly to changes in market conditions.
