@@ -26,6 +26,28 @@ The goal of this Power BI project was to create interactive, dynamic dashboards 
 - **Executive View**: Provides high-level KPIs and business health metrics for company leadership.
 
 ---
+## **Data Modeling
+
+![Image](https://github.com/user-attachments/assets/6735259b-2aa8-4216-9046-41d351fe2f44)
+
+## ** Finance View
+![Image](https://github.com/user-attachments/assets/ecec0dc5-e42a-4147-81c9-950d74c23f0e)
+
+## ** Sales View
+
+![Image](https://github.com/user-attachments/assets/1a2f920d-c1b2-4448-8ae5-28b41aec1b62)
+
+## ** Marketing View
+
+![Image](https://github.com/user-attachments/assets/018ef385-c54d-4d29-96fc-8520a7e01062)
+
+## ** Supply Chain View
+
+![Image](https://github.com/user-attachments/assets/f7424629-8156-4692-bbdf-a10912532ff2)
+
+## ** Executive View
+
+![Image](https://github.com/user-attachments/assets/310c4685-da02-4e72-b1d0-99165706107a)
 
 ## **Key Features**
 - **Dynamic Filtering**: Interactive slicers and filters allow users to drill down into specific regions, products, and time periods.
